@@ -5,7 +5,7 @@ from psycopg2 import sql
 db_params = {
     'dbname': 'postgres',  # Имя базы данных, к которой вы подключаетесь
     'user': 'postgres',  # Ваше имя пользователя
-    'password': 'password',  # Ваш пароль
+    'password': 'adsl311812',  # Ваш пароль
     'host': 'localhost',  # Хост, обычно localhost
     'port': '5432'  # Порт, по умолчанию 5432
 }
